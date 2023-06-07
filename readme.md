@@ -27,6 +27,6 @@ each one of them will run one of the diferent enviroments (developement, staging
  - dev is port forwarding 80 (guest) => 8181 (host)
  - sta is port forwarding 80 (guest) => 8282 (host)
 
-so you can easyly access to the running website just accessing to http://localhost:8181 or http://localhost 8282
+so you can easyly access to the running website just accessing to http://localhost:8181 or http://localhost:8282
 
 ## TODO
